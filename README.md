@@ -1,2 +1,2 @@
-# mountain-madness-2022
+# mountain-madness-2023
 Team: Simrit, Harman, Ekam, Sahil, Ravjot
